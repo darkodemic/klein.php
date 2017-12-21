@@ -16,6 +16,12 @@
          "email": "rican7@gmail.com",
          "homepage": "https://trevorsuarez.com/",
          "role": "Contributor/Developer"
+      },
+      {
+         "name": "Darko Demić",
+         "email": "mail@darkodemic.com",
+         "homepage": "https://darkodemic.com/",
+         "role": "Contributor/Developer"
       }
    ],
    "require": {
